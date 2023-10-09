@@ -1,3 +1,4 @@
 # E-commerce-dashboard
 
-Project
+## Project learnings:-
+1. 
